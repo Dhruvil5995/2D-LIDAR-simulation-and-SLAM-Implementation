@@ -51,7 +51,6 @@ pip install -r requirements.txt
 - Access the line segments with the `LINE_SEGMENTS` variable within `featuresDetection`.
 - Update and visualize the extracted segments on the map using the `show_sensorData` function.
 
-Feel free to adjust the algorithm parameters to fit the requirements of your specific use-case.
 
 ### What's Next?
 
