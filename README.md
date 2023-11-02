@@ -32,7 +32,7 @@ The simulation was implemented using Pygame library which provides an interactiv
 To use this line segment extraction algorithm, follow these steps:<br>
 
 1. Clone this repository to your local machine using the following command:<br>
-   git clone https://github.com/shivam-gupta0/2D-LIDAR-simulation-and-SLAM-Implementation-using-python.git<br>
+   git clone https://github.com/Dhruvil5995/2D-LIDAR-simulation-and-SLAM-Implementation<br>
 
 2. Install the required dependencies by running the following command:<br>
    pip install -r requirements.txt<br>
@@ -77,8 +77,6 @@ When contributing, please follow the existing code style, include appropriate te
 
 - Refrence: https://journals.sagepub.com/doi/pdf/10.1177/1729881418755245 <br>
 
-**Contact:**
-shivamgupta0@hotmail.com
 
 
 
